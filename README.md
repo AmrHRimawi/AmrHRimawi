@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**AmrHRimawi/AmrHRimawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building cool projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on exciting projects in software development.
+- 🌱 I’m always learning new technologies and improving my skills.
+- 💬 Ask me about programming, development tools, or anything tech-related.
+- ⚡ Fun fact: I love to explore new ideas and experiment with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- 💻 **Languages:** Java, Spring Boot, React, JavaScript
+- 🌐 **Web Development:** Spring Boot, React, HTML, CSS
+- 📡 **Databases:** MySQL, Oracle, MS SQL
+- ☁️ **Cloud & DevOps:** Docker, GitHub Actions
+
+## 📈 GitHub Stats
+![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrHRimawi&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+- 📧 Email: Amr.HRimawi@gmail.com.com
+- 🔗 LinkedIn: [linkedin.com/in/amr-rimawi](https://www.linkedin.com/in/amr-rimawi/)
+
+Thanks for stopping by! 😊
+
